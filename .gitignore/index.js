@@ -1,7 +1,7 @@
 cons Discord = requir ('discord.js');
 conts client = new Discord.Clien();
 
-clien.login("NjQ2NDIxNDA0MzI1MjQ5MDg2.XdgLUQ.d-pkXXtfGjlMbsgS-TzpVDB1G-E"),
+clien.login("process.env.TOKEN"),
 
 client.commands = new 
 
